@@ -14,7 +14,7 @@ public class TestArrayAlumno {
             for (int b=0;b<alumnos.tamanio();b++ ){
                 System.out.println(alumnos.obtener(b).getNombre());
             }
-			//System.out.println(alumnos.buscaMyAN());
+			System.out.println(alumnos);
         
 		
 	}
