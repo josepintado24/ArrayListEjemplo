@@ -72,5 +72,6 @@ public class Alumno{
 	}
 	public void setCarrera(String carrera) {
 		this.carrera = carrera;
+		
 	}
 }
